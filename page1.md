@@ -2,7 +2,7 @@
 marp: true
 theme: gaia
 ---
-![bg](https://github.com/DPI-2024/marp-101/blob/main/DPI_bg%20_wh_zoom.png)
+![bg](DPI_bg_wh_zoom.jpg)
 
 
 # Your slide deck
